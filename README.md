@@ -88,8 +88,7 @@ Why?
 Collects customer opinions about product search, trust, and checkout experience.
 
 
-<img width="1916" height="588" alt="Screenshot 2026-05-20 001314" src="https://github.com/user-attachments/assets/0d98e048-d038-492e-84ea-1f09a21039cb" />
-
+<img width="362" height="622" alt="image" src="https://github.com/user-attachments/assets/10e016c1-6624-4c1a-ac8c-b1f77d96088c" />
 
 ## Result:
 To Present 2 different UX project scenarios is completed successfully
